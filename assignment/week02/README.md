@@ -8,11 +8,11 @@
 - HTTP 상태 코드 분석
 
 ### 제출 방법
-아래 구조를 따라 GitHub에 업로드
-week02/
- └ 본인이름/
-    ├ README.md
-    └ capture.pcapng
+아래 구조를 따라 GitHub에 업로드 \n
+week02/ \n
+ └ 본인이름/ \n
+    ├ README.md \n
+    └ capture.pcapng \n
 
 ### 제출 파일
 - Wireshark 패킷 캡처 파일 (`.pcapng`)
