@@ -18,7 +18,7 @@ HTTPS를 HTTP로 변경하여 패킷이 보이도록 하였다.
 
 
 ### 5. 상태 코드 분석
-<img width="500" alt="스크린샷 2026-03-26 131121" src="https://github.com/user-attachments/assets/b15e721f-7218-4baf-b46a-94a79a3b8dd9" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a0160eb4-6d36-4efc-98ea-255f202a9af3" />
 - 2xx: 정상 응답 (200 OK) 18개<br>
 - 3xx: Redirection 3개<br>
 - 4xx, 5xx: 오류 없음 <br><br>
