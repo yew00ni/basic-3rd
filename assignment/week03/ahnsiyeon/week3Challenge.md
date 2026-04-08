@@ -12,7 +12,7 @@ TCP(Transmission Control Protocol), HTTP(Hypertext Transfer Protocol), DNS(Domai
 http://www.yongin.go.kr/ebook/src/viewer/download.php?host=main&site=20220430_101634_1&no=1
 
 - 요청 방식(GET/POST)을 작성하시오.
-GET
+get
 
 # 3. 서버 응답 분석
 
